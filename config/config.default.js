@@ -46,9 +46,9 @@ module.exports = (appInfo) => {
       // 用户名
       user: "root",
       // 密码
-      password: "leilei111", // 初始化密码，没设置的可以不写
+      password: "@Leilei111", // 初始化密码，没设置的可以不写
       // 数据库名
-      database: "juejue-cost", // 我们新建的数据库名称
+      database: "jue-cost", // 我们新建的数据库名称
     },
     // 是否加载到 app 上，默认开启
     app: true,
